@@ -44,9 +44,9 @@
 }, {
     "id": "8",
     "tipo": "Accesorio",
-    "nombre": "llavero zodiacal",
-    "precio": "4500",
-    "foto": "../media/products/proximamente.jpg"
+    "nombre": "Manopla Corazon",
+    "precio": "8000",
+    "foto": "../media/products/manoplacorazon.jpeg"
 }, {
     "id": "9",
     "tipo": "Accesorio",
@@ -98,9 +98,9 @@
 }, {
     "id": "17",
     "tipo": "Accesorio",
-    "nombre": "Manopla Corazon",
-    "precio": "8000",
-    "foto": "../media/products/manoplacorazon.jpeg"
+    "nombre": "llavero zodiacal",
+    "precio": "4500",
+    "foto": "../media/products/proximamente.jpg"
 }, {
     "id": "18",
     "tipo": "Accesorio",
