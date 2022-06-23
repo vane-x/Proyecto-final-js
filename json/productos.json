@@ -31,27 +31,28 @@
 }, {
     "id": "6",
     "tipo": "Accesorio",
-    "nombre": "Llavero Patitas",
-    "precio": "6000",
-    "foto": "../media/products/llaveropatitas.jpeg"
+    "nombre": "Marca paginas Sailor",
+    "precio": "4500",
+    "foto": "../media/products/marcapaginasailor.jpeg"
+   
 }, {
     "id": 7,
+    "tipo": "Accesorio",
+    "nombre": "Manopla Gatitos",
+    "precio": "8000",
+    "foto": "../media/products/manoplagatito.jpeg"
+}, {
+    "id": "8",
     "tipo": "Accesorio",
     "nombre": "llavero zodiacal",
     "precio": "4500",
     "foto": "../media/products/proximamente.jpg"
 }, {
-    "id": "8",
-    "tipo": "Accesorio",
-    "nombre": "dijes",
-    "precio": "3800",
-    "foto": "../media/products/proximamente.jpg"
-}, {
     "id": "9",
     "tipo": "Accesorio",
-    "nombre": "Marca paginas Sailor",
-    "precio": "4500",
-    "foto": "../media/products/marcapaginasailor.jpeg"
+    "nombre": "Llavero Patitas",
+    "precio": "6000",
+    "foto": "../media/products/llaveropatitas.jpeg"
 }, {
     "id": "10",
     "tipo": "Accesorio",
@@ -103,7 +104,7 @@
 }, {
     "id": "18",
     "tipo": "Accesorio",
-    "nombre": "Manopla Gatitos",
-    "precio": "8000",
-    "foto": "../media/products/manoplagatito.jpeg"
+    "nombre": "dijes",
+    "precio": "3800",
+    "foto": "../media/products/proximamente.jpg"
 }]
